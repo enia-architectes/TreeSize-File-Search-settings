@@ -1,4 +1,4 @@
-# TreeSize-File-Search-settings
+# TreeSize File Search settings
 Settings file for TreeSize File Search to clean folders of architects projects.
 This settings list:
 * Biggeste Files
