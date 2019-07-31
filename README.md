@@ -1,5 +1,5 @@
 # TreeSize File Search settings
-Settings file for TreeSize File Search to clean folders of architects projects.
+Settings file for TreeSize File Search software to clean folders of architects projects.
 This settings list:
 * Biggeste Files
 * Temporary Files
@@ -13,4 +13,4 @@ This settings list:
 
 After you can decide which files you want to delete.
 
-Link to TreeSize software: https://www.jam-software.com/treesize/
+Link to TreeSize software: https://www.jam-software.com/treesize/ from JAM Software GmbH.
