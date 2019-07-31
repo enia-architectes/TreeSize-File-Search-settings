@@ -19,16 +19,7 @@
 		<EmailExportAllLists>False</EmailExportAllLists>
 		<EmailCheckedItemsOnly>False</EmailCheckedItemsOnly>
 		<TextExtensions>*.asc;*.latex;*.log;*.nfo;*.tex;*.txt;*.1st;*.csv;*.xml;*.rtf;*.eml</TextExtensions>
-		<RecentlyUsedFilePaths Type="TRecentlyUsedPaths">
-			<Item>
-				<Path>P:\000 - GENERALITES\08-INFORMATIQUE\03-ANALYSES\TreeSize Config Nettoyage des dossiers 2019-01.xml</Path>
-				<TimeStamp>43655.514043669</TimeStamp>
-			</Item>
-			<Item>
-				<Path>P:\000 - GENERALITES\08-INFORMATIQUE\02-DONNEES\TreeSize\TreeSize Config Nettoyage des dossiers 2019-02.xml</Path>
-				<TimeStamp>43655.6691830208</TimeStamp>
-			</Item>
-		</RecentlyUsedFilePaths>
+		<RecentlyUsedFilePaths Type="TRecentlyUsedPaths"></RecentlyUsedFilePaths>
 		<LastReportType>2</LastReportType>
 		<MaximumThreads>8</MaximumThreads>
 		<ToolTipStyle>1</ToolTipStyle>
@@ -7976,7 +7967,7 @@
 	<FollowReparsePoints>False</FollowReparsePoints>
 	<MoveMaxNumberOfThreads>1</MoveMaxNumberOfThreads>
 	<DeduplicateLogOperations>True</DeduplicateLogOperations>
-	<DeduplicateLogFile>C:\Users\micr091\AppData\Roaming\JAM Software\Treesize\DeduplicationLog.txt</DeduplicateLogFile>
+	<DeduplicateLogFile></DeduplicateLogFile>
 	<DeduplicateUseSymLinksForOtherDrives>False</DeduplicateUseSymLinksForOtherDrives>
 	<DeduplicateReferenceDrive></DeduplicateReferenceDrive>
 	<UncheckedPathsInDriveListPanel Type="TStringList"></UncheckedPathsInDriveListPanel>
